@@ -37,7 +37,7 @@ const Footer = () => {
             >
               <a href={info.link}>
 
-              <Image src={info.img}  alt="icons" width={20} height={20}  /> 
+              <img src={info.img}  alt="icons" width={20} height={20}  /> 
               </a>
             </div>
           ))}
