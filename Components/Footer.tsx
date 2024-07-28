@@ -2,6 +2,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 import { socialMedia } from "@/Data";
 import MagicButton from "./ui/MagicButton";
+import Image from "next/image";
 
 const Footer = () => {
   return (
@@ -36,7 +37,7 @@ const Footer = () => {
             >
               <a href={info.link}>
 
-              <img src={info.img}  alt="icons" width={20} height={20}  />
+              <Image src={info.img}  alt="icons" width={20} height={20}  /> 
               </a>
             </div>
           ))}

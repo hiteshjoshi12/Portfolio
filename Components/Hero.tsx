@@ -29,7 +29,7 @@ const Hero = () => {
           <TextGenerateEffect className=" text-center text-[40px] md:text-5xl lg:text-6xl" 
           words="Transforming Concepts into Seamless user Experiences."/>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm HITESH JOSHI, a FULL STACK DEVELOPER BASED IN INDIA.
+            Hi, I am HITESH JOSHI, a FULL STACK DEVELOPER BASED IN INDIA.
 
           </p>
           <a href="#projects">
